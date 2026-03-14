@@ -11,6 +11,7 @@ I enjoy working with data to uncover patterns, perform exploratory analysis, and
 * Tableau
 * Data Cleaning & Exploratory Data Analysis
 * Data Visualization (Seaborn, Matplotlib)
+* Excel
 
 ### 📊 Interests
 

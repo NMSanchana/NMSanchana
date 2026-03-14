@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Sanchana 👋
 
-<!--
-**NMSanchana/NMSanchana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring **Data Analyst** skilled in **Python, SQL, and Tableau**, with a strong interest in transforming raw data into meaningful insights.
 
-Here are some ideas to get you started:
+I enjoy working with data to uncover patterns, perform exploratory analysis, and build analytical solutions that support data-driven decision making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills
+
+* Python (Pandas, NumPy)
+* SQL
+* Tableau
+* Data Cleaning & Exploratory Data Analysis
+* Data Visualization (Seaborn, Matplotlib)
+
+### 📊 Interests
+
+* Data Analytics
+* Business Intelligence
+* Statistical Analysis
+* Machine Learning
+
+Currently building **data analysis projects and dashboards** to strengthen my analytical and problem-solving skills.
+
+
